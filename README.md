@@ -1,7 +1,7 @@
 # Atmospheric Scientist | Python Developer | Open Source Contributor
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="ahuang11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahuang11" />
+<img align="left" alt="ahuang11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahuang11&show_icons=true&theme=radical" />
 
 [ahlive]: https://ahlive.readthedocs.io/en/main/
 [medium]: https://medium.com/@pYdeas
