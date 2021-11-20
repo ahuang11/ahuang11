@@ -6,7 +6,7 @@ I'm an atmospheric scientist, python developer, and open source contributor!
 
 ### Find me!
 
-[ahlive](https://ahlive.readthedocs.io)
-[medium](https://medium.com/@pYdeas)
-[twitter](https://twitter.com/IAteAnDrew1)
-[linkedin](https://www.linkedin.com/in/huangandrew12)
+[ahlive](https://ahlive.readthedocs.io)<br />
+[medium](https://medium.com/@pYdeas)<br />
+[twitter](https://twitter.com/IAteAnDrew1)<br />
+[linkedin](https://www.linkedin.com/in/huangandrew12)<br />
