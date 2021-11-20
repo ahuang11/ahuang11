@@ -1,16 +1,13 @@
-### Hi there 👋
+# Atmospheric Scientist | Python Developer | Open Source Contributor
 
-<!--
-**ahuang11/ahuang11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-Here are some ideas to get you started:
+  <img align="left" alt="ahuang11's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahuang11&show_icons=true&hide_border=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+[ahlive]: https://ahlive.readthedocs.io/en/main/
+[medium]: https://medium.com/@pYdeas
+[twitter]: https://twitter.com/IAteAnDrew1
+[linkedin]: https://www.linkedin.com/in/huangandrew12/
