@@ -1,4 +1,8 @@
-### Atmospheric Scientist | Python Developer | Open Source Contributor
+## Hi!
+
+I'm an atmospheric scientist, python developer, and open source contributor!
+
+### Connect with me!
 
 ![<img align="left" alt="ahlive | animate your data to life" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/graph.svg" />][ahlive]
 ![<img align="left" alt="ahuang11 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][medium]
