@@ -8,6 +8,6 @@ I'm an atmospheric scientist, python developer, and open source contributor!
 
 [ahlive](https://ahlive.readthedocs.io) - animate your data to life <br />
 [solunity](https://solunity.herokuapp.com) - apps designed by me <br />
-[medium](https://medium.com/@pYdeas) - pYdeas is where I try to pursue random Python ideas I have and share my workflow to achieve it <br />
-[twitter](https://twitter.com/IAteAnDrew1) - share random updates <br />
+[pYdeas](https://medium.com/@pYdeas) - sharing my workflow to achieve random ideas <br />
+[twitter](https://twitter.com/IAteAnDrew1) - tweet random updates <br />
 [linkedin](https://www.linkedin.com/in/huangandrew12) - connect with me <br />
