@@ -1,6 +1,6 @@
 ### Atmospheric Scientist | Python Developer | Open Source Contributor
 
-(https://github-readme-stats.vercel.app/api?username=ahuang11&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ahuang11&show_icons=true&theme=radical)
 
 [ahlive]: https://ahlive.readthedocs.io/en/main/
 [medium]: https://medium.com/@pYdeas
