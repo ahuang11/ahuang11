@@ -6,6 +6,7 @@ I'm an atmospheric scientist, python developer, and open source contributor!
 
 ### My pages!
 
+[mypage](https://ahuang11.github.io/mypage/) - about me <br />
 [ahlive](https://ahlive.readthedocs.io) - animate your data to life <br />
 [solunity](https://solunity.herokuapp.com) - apps designed by me <br />
 [pYdeas](https://medium.com/@pYdeas) - explaining workflows for random ideas <br />
